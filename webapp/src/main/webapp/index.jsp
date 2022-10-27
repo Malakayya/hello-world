@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning ADK 2</h1>
+   <h1> Thankyou, Happy Learning docker image container and published sucessfully 2</h1>
 
   
 </form>
