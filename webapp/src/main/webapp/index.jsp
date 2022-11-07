@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning docker image container and published sucessfully.....  CI & CD Integrated with docker and kubernetes end to end</h1>
+   <h1> Thankyou, Happy Learning docker image container and published sucessfully.....>>>  CI & CD Integrated with docker and kubernetes end to end</h1>
 
   
 </form>
